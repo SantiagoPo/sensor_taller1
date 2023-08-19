@@ -1,3 +1,7 @@
+//Integrantes del grupo:
+//Santiago Polanco
+//Fabian Carvajal
+
 int LED = 13;
 int buttonPin = 11;
 bool val;
@@ -16,3 +20,4 @@ void loop() {
     digitalWrite(LED, LOW);
   }
 }
+
